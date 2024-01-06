@@ -1,0 +1,7 @@
+colorama
+yfinance
+pytz
+holidays
+Pillow  # PIL is part of the Pillow package
+unicorn-hat-sim
+unicornhathd
